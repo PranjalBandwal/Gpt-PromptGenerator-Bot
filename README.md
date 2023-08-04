@@ -13,3 +13,5 @@ Then, the magic happens! It generates personalized, thought-provoking prompts ta
  So, when you visit our website, the Static Web App Service handles all the heavy lifting in the background, ensuring that you can access and use the GPT Prompt Generator effortlessly.
 
 #the GPT Prompt Generator - where Microsoft Azure Language Service and Static Web App Service come together to create a seamless and powerful user experience. With the combined strength of AI and web development.
+
+#also use prompts.csv file for knowing keywords.
