@@ -16,7 +16,7 @@ Then, the magic happens! It generates personalized, thought-provoking prompts ta
 
 #also use prompts.csv file for knowing keywords.
 
-see how this works:
+#see how this works:
 1. visit the link.
 2. enter any keyword from the database (i have uploaded the database file in this repo itself), here how you can do this :
   in this screenshot i have given keyword "debater" and "composer" , as you can see when we enter the keyword the BOT generates a prompt for you.
